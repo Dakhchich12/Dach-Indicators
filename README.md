@@ -1,5 +1,8 @@
 # 🚦 Dach Indicators ( )
 
+![Dach-Indicators Preview](photo.png)
+
+
 Welcome to **Dach Indicators**! This is a highly optimized, fully standalone vehicle indicator (turn signal) script for FiveM. I built this from the ground up to be as performant as possible (literally 0.00ms resmon idle) while looking super clean and professional.
 
 ## ✨ Features
