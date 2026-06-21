@@ -8,7 +8,7 @@ Welcome to **Dach Indicators**! This is a highly optimized, fully standalone veh
 ## ✨ Features
 - **True 0.00ms Resmon:** Perfect performance. Uses dynamic thread sleeping so it only uses resources when you actually need it.
 - **Native Syncing:** Uses modern FiveM State Bags (`sv_statebag_aware`). No more laggy server events bouncing around.
-- **KeyMapped Controls:** Players can change their own keybinds in the GTA V settings! (Default: K, L, H).
+- **KeyMapped Controls:** Players can change their own keybinds in the GTA V settings! (Default: Left Arrow, Right Arrow, M).
 - **Animated FX Markers:** Beautiful, blinking, rotating yellow markers that sync perfectly with the native vehicle lights.
 - **Instant Audio:** Click-clack indicator sounds play instantly with zero network delay.
 
